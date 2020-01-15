@@ -1,1 +1,2 @@
 Prova exercici Git.
+Dins de la branca Branch 1
