@@ -1,2 +1,6 @@
 Prova exercici Git.
+
 Tornada a Master.
+
+Dins de la branca Branch 1
+
